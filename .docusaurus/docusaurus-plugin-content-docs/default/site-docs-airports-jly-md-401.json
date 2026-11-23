@@ -1,0 +1,38 @@
+{
+  "id": "airports/jly",
+  "title": "极连云机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网",
+  "description": "围绕极连云的高阶IPLC专线型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。",
+  "source": "@site/docs/airports/jly.md",
+  "sourceDirName": "airports",
+  "slug": "/airports/jly",
+  "permalink": "/airports/jly",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "jly",
+    "title": "极连云机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网",
+    "description": "围绕极连云的高阶IPLC专线型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。",
+    "slug": "/airports/jly",
+    "keywords": [
+      "极连云",
+      "极连云怎么样",
+      "极连云测评",
+      "极连云官网",
+      "极连云节点",
+      "极连云优惠码",
+      "极连云套餐",
+      "支持Clash的机场"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "大佬云 [核心]",
+    "permalink": "/airports/dly"
+  },
+  "next": {
+    "title": "唯兔云",
+    "permalink": "/airports/wty"
+  }
+}

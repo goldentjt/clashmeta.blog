@@ -1,0 +1,36 @@
+{
+  "id": "provider-lab",
+  "title": "Clash订阅实验：完整配置与代理集合如何加载｜clashmeta教学网",
+  "description": "围绕确认输入结构、加载与刷新、复核覆盖的字段，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/provider-lab.md",
+  "sourceDirName": ".",
+  "slug": "/provider-lab",
+  "permalink": "/provider-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "provider-lab",
+    "title": "Clash订阅实验：完整配置与代理集合如何加载｜clashmeta教学网",
+    "description": "围绕确认输入结构、加载与刷新、复核覆盖的字段，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/provider-lab",
+    "keywords": [
+      "Clash订阅实验",
+      "Clash代理集合怎样做加载实验",
+      "Clash完整配置刷新怎样验证",
+      "Clash Meta订阅输入类型怎样测试",
+      "Clash订阅链接",
+      "proxy-providers"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash配置实验：逐段理解最小YAML｜clashmeta教学网",
+    "permalink": "/config-lab"
+  },
+  "next": {
+    "title": "Clash节点实验：从单节点到策略组选择｜clashmeta教学网",
+    "permalink": "/node-lab"
+  }
+}

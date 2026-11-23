@@ -1,0 +1,38 @@
+{
+  "id": "airports/lmwl",
+  "title": "灵猫网络（Civet）机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网",
+  "description": "围绕灵猫网络（Civet）的量贩式TB级大流量型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。",
+  "source": "@site/docs/airports/lmwl.md",
+  "sourceDirName": "airports",
+  "slug": "/airports/lmwl",
+  "permalink": "/airports/lmwl",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lmwl",
+    "title": "灵猫网络（Civet）机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网",
+    "description": "围绕灵猫网络（Civet）的量贩式TB级大流量型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。",
+    "slug": "/airports/lmwl",
+    "keywords": [
+      "灵猫网络（Civet）",
+      "灵猫网络（Civet）怎么样",
+      "灵猫网络（Civet）测评",
+      "灵猫网络（Civet）官网",
+      "灵猫网络（Civet）节点",
+      "灵猫网络（Civet）优惠码",
+      "灵猫网络（Civet）套餐",
+      "支持Clash的机场"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "无忧链接",
+    "permalink": "/airports/wylj"
+  },
+  "next": {
+    "title": "闪跃",
+    "permalink": "/airports/sy"
+  }
+}

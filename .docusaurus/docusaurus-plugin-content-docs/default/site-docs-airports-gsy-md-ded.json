@@ -1,0 +1,38 @@
+{
+  "id": "airports/gsy",
+  "title": "光速云机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网",
+  "description": "围绕光速云的千兆高带宽突发测速型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。",
+  "source": "@site/docs/airports/gsy.md",
+  "sourceDirName": "airports",
+  "slug": "/airports/gsy",
+  "permalink": "/airports/gsy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "gsy",
+    "title": "光速云机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网",
+    "description": "围绕光速云的千兆高带宽突发测速型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。",
+    "slug": "/airports/gsy",
+    "keywords": [
+      "光速云",
+      "光速云怎么样",
+      "光速云测评",
+      "光速云官网",
+      "光速云节点",
+      "光速云优惠码",
+      "光速云套餐",
+      "支持Clash的机场"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "光年梯",
+    "permalink": "/airports/gnt"
+  },
+  "next": {
+    "title": "宇宙云",
+    "permalink": "/airports/yzy"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "airports/yfy",
+  "title": "一翻云机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网",
+  "description": "围绕一翻云的纯净流媒体专线型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。",
+  "source": "@site/docs/airports/yfy.md",
+  "sourceDirName": "airports",
+  "slug": "/airports/yfy",
+  "permalink": "/airports/yfy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "yfy",
+    "title": "一翻云机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网",
+    "description": "围绕一翻云的纯净流媒体专线型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。",
+    "slug": "/airports/yfy",
+    "keywords": [
+      "一翻云",
+      "一翻云怎么样",
+      "一翻云测评",
+      "一翻云官网",
+      "一翻云节点",
+      "一翻云优惠码",
+      "一翻云套餐",
+      "支持Clash的机场"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "二猫云",
+    "permalink": "/airports/emy"
+  },
+  "next": {
+    "title": "边缘节点",
+    "permalink": "/airports/byjd"
+  }
+}

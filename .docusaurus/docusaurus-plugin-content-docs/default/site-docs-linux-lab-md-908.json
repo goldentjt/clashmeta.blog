@@ -1,0 +1,35 @@
+{
+  "id": "linux-lab",
+  "title": "Clash Linux实验：核心启动、配置与日志｜clashmeta教学网",
+  "description": "围绕核对发行版架构、启动最小配置、验证并停止实例，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/linux-lab.md",
+  "sourceDirName": ".",
+  "slug": "/linux-lab",
+  "permalink": "/linux-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "linux-lab",
+    "title": "Clash Linux实验：核心启动、配置与日志｜clashmeta教学网",
+    "description": "围绕核对发行版架构、启动最小配置、验证并停止实例，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/linux-lab",
+    "keywords": [
+      "Clash Linux实验",
+      "Clash Linux最小配置怎样启动",
+      "Clash Linux实验日志怎样记录",
+      "Clash Linux实验怎样停止实例",
+      "Clash Linux使用"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash iOS实验：确认应用支持再验证配置｜clashmeta教学网",
+    "permalink": "/ios-lab"
+  },
+  "next": {
+    "title": "Clash更新实验：配置迁移前后怎样回归｜clashmeta教学网",
+    "permalink": "/upgrade-lab"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "proxy-basics",
+  "title": "科学上网与Meta教学的基础知识｜clashmeta教学网",
+  "description": "围绕代理连接链路、配置控制哪些环节、从概念选择实验，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/proxy-basics.md",
+  "sourceDirName": ".",
+  "slug": "/proxy-basics",
+  "permalink": "/proxy-basics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "proxy-basics",
+    "title": "科学上网与Meta教学的基础知识｜clashmeta教学网",
+    "description": "围绕代理连接链路、配置控制哪些环节、从概念选择实验，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/proxy-basics",
+    "keywords": [
+      "科学上网与Meta教学的基础知识",
+      "科学上网实验环境怎样理解",
+      "代理配置控制连接的哪些环节",
+      "学习Clash Meta前需要哪些基础",
+      "科学上网入门"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash Meta教程：完成一次最小可用实验｜clashmeta教学网",
+    "permalink": "/getting-started"
+  },
+  "next": {
+    "title": "Clash Meta核心教学：怎样确定配置适用范围｜clashmeta教学网",
+    "permalink": "/mihomo"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "getting-started",
+  "title": "Clash Meta教程：完成一次最小可用实验｜clashmeta教学网",
+  "description": "围绕准备已授权的输入、加载并启用、记录一次目标连接，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/getting-started.md",
+  "sourceDirName": ".",
+  "slug": "/getting-started",
+  "permalink": "/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getting-started",
+    "title": "Clash Meta教程：完成一次最小可用实验｜clashmeta教学网",
+    "description": "围绕准备已授权的输入、加载并启用、记录一次目标连接，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/getting-started",
+    "keywords": [
+      "Clash教程",
+      "Clash Meta第一次实验怎样做",
+      "Clash Meta怎样验证一次目标连接",
+      "Clash Meta最小可用环境如何记录",
+      "Clash使用教程"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash更新实验：配置迁移前后怎样回归｜clashmeta教学网",
+    "permalink": "/upgrade-lab"
+  },
+  "next": {
+    "title": "科学上网与Meta教学的基础知识｜clashmeta教学网",
+    "permalink": "/proxy-basics"
+  }
+}

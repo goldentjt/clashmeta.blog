@@ -1,0 +1,35 @@
+{
+  "id": "faq",
+  "title": "Clash Meta实验常见问题与复查方法｜clashmeta教学网",
+  "description": "围绕配置与版本、输入与刷新、现象与预期差异，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/faq.md",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "faq",
+    "title": "Clash Meta实验常见问题与复查方法｜clashmeta教学网",
+    "description": "围绕配置与版本、输入与刷新、现象与预期差异，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/faq",
+    "keywords": [
+      "Clash Meta实验常见问题",
+      "Clash Meta实验为何结果不同",
+      "Clash Meta复现记录应该包含什么",
+      "Clash Meta测试失败怎样提交问题",
+      "Clash新手问题"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "跨界云",
+    "permalink": "/airports/kjy"
+  },
+  "next": {
+    "title": "关于clashmeta教学网：实验与版本怎样维护｜clashmeta教学网",
+    "permalink": "/about"
+  }
+}

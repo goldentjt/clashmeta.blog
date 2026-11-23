@@ -1,0 +1,113 @@
+/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
+const sidebars = {
+  tutorialSidebar: [
+    {
+      type: 'link',
+      label: 'Meta学习 (首页)',
+      href: '/',
+    },
+    {
+      type: 'category',
+      label: '下载与平台',
+      collapsed: true,
+      items: [
+        'downloads',
+        'windows-lab',
+        'mac-lab',
+        'android-lab',
+        'ios-lab',
+        'linux-lab',
+        'upgrade-lab',
+      ],
+    },
+    {
+      type: 'category',
+      label: '入门与知识',
+      collapsed: true,
+      items: [
+        'getting-started',
+        'proxy-basics',
+        'mihomo',
+        'upstream',
+        'verge-lab',
+      ],
+    },
+    {
+      type: 'category',
+      label: '订阅与配置',
+      collapsed: true,
+      items: [
+        'config-lab',
+        'provider-lab',
+        'node-lab',
+        'routing-lab',
+      ],
+    },
+    {
+      type: 'category',
+      label: '网络与问题',
+      collapsed: true,
+      items: [
+        'tun-lab',
+        'dns-lab',
+        'controller-lab',
+        'proxy-lab',
+        'lab-errors',
+      ],
+    },
+    {
+      type: 'category',
+      label: '服务选择',
+      collapsed: false,
+      items: [
+        'airport-recommend',
+        {
+          type: 'category',
+          label: '28家机场独立深度测评',
+          collapsed: true,
+          items: [
+            { type: 'doc', id: 'airports/qqy', label: '全球云 [核心]' },
+            { type: 'doc', id: 'airports/mgjs', label: '暮光加速 [核心]' },
+            { type: 'doc', id: 'airports/fmy', label: '飞猫云 [核心]' },
+            { type: 'doc', id: 'airports/lw', label: '浪网 [核心]' },
+            { type: 'doc', id: 'airports/dly', label: '大佬云 [核心]' },
+            { type: 'doc', id: 'airports/jly', label: '极连云' },
+            { type: 'doc', id: 'airports/wty', label: '唯兔云' },
+            { type: 'doc', id: 'airports/tzy', label: '梯子云' },
+            { type: 'doc', id: 'airports/u1s1', label: 'U1S1' },
+            { type: 'doc', id: 'airports/gnt', label: '光年梯' },
+            { type: 'doc', id: 'airports/gsy', label: '光速云' },
+            { type: 'doc', id: 'airports/yzy', label: '宇宙云' },
+            { type: 'doc', id: 'airports/sj', label: '速界' },
+            { type: 'doc', id: 'airports/sgy', label: 'SOGO云' },
+            { type: 'doc', id: 'airports/kl', label: '快狸' },
+            { type: 'doc', id: 'airports/emy', label: '二猫云' },
+            { type: 'doc', id: 'airports/yfy', label: '一翻云' },
+            { type: 'doc', id: 'airports/byjd', label: '边缘节点' },
+            { type: 'doc', id: 'airports/kxy', label: '可信云' },
+            { type: 'doc', id: 'airports/ldy', label: '灵动云' },
+            { type: 'doc', id: 'airports/yxr', label: '隐形人' },
+            { type: 'doc', id: 'airports/flyv', label: 'FlyV' },
+            { type: 'doc', id: 'airports/wfwl', label: '微风网络' },
+            { type: 'doc', id: 'airports/wylj', label: '无忧链接' },
+            { type: 'doc', id: 'airports/lmwl', label: '灵猫网络' },
+            { type: 'doc', id: 'airports/sy', label: '闪跃' },
+            { type: 'doc', id: 'airports/ff', label: 'Firefly' },
+            { type: 'doc', id: 'airports/kjy', label: '跨界云' },
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: '站点说明',
+      collapsed: true,
+      items: [
+        'faq',
+        'about',
+      ],
+    },
+  ],
+};
+
+module.exports = sidebars;

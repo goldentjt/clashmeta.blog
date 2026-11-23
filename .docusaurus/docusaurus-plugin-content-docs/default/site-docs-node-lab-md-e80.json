@@ -1,0 +1,36 @@
+{
+  "id": "node-lab",
+  "title": "Clash节点实验：从单节点到策略组选择｜clashmeta教学网",
+  "description": "围绕指定样本节点、记录组的选择、验证出口和请求，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/node-lab.md",
+  "sourceDirName": ".",
+  "slug": "/node-lab",
+  "permalink": "/node-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "node-lab",
+    "title": "Clash节点实验：从单节点到策略组选择｜clashmeta教学网",
+    "description": "围绕指定样本节点、记录组的选择、验证出口和请求，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/node-lab",
+    "keywords": [
+      "Clash节点实验",
+      "Clash Meta节点样本怎样选择",
+      "Clash策略组选择怎样实验",
+      "Clash Meta出口和请求结果怎样记录",
+      "Clash节点选择",
+      "Clash策略组"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash订阅实验：完整配置与代理集合如何加载｜clashmeta教学网",
+    "permalink": "/provider-lab"
+  },
+  "next": {
+    "title": "Clash规则实验：让请求命中预期策略｜clashmeta教学网",
+    "permalink": "/routing-lab"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tun-lab",
+  "title": "Clash TUN实验：接入范围和路由怎样验证｜clashmeta教学网",
+  "description": "围绕确认平台前提、启用与观察、停止后恢复网络，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/tun-lab.md",
+  "sourceDirName": ".",
+  "slug": "/tun-lab",
+  "permalink": "/tun-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "tun-lab",
+    "title": "Clash TUN实验：接入范围和路由怎样验证｜clashmeta教学网",
+    "description": "围绕确认平台前提、启用与观察、停止后恢复网络，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/tun-lab",
+    "keywords": [
+      "Clash TUN实验",
+      "Clash Meta TUN实验前提有哪些",
+      "Clash TUN路由怎样验证",
+      "Clash TUN实验后怎样恢复网络",
+      "Clash虚拟网卡"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash规则实验：让请求命中预期策略｜clashmeta教学网",
+    "permalink": "/routing-lab"
+  },
+  "next": {
+    "title": "Clash DNS实验：解析路径和覆盖设置怎么测｜clashmeta教学网",
+    "permalink": "/dns-lab"
+  }
+}

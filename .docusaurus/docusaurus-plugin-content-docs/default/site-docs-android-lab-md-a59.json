@@ -1,0 +1,35 @@
+{
+  "id": "android-lab",
+  "title": "Clash Android实验：VPN接入与后台连接验证｜clashmeta教学网",
+  "description": "围绕核对项目和系统、授权与启用、前台后台分别观察，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/android-lab.md",
+  "sourceDirName": ".",
+  "slug": "/android-lab",
+  "permalink": "/android-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "android-lab",
+    "title": "Clash Android实验：VPN接入与后台连接验证｜clashmeta教学网",
+    "description": "围绕核对项目和系统、授权与启用、前台后台分别观察，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/android-lab",
+    "keywords": [
+      "Clash Android实验",
+      "Clash安卓VPN接入怎样实验",
+      "Clash安卓后台连接怎样验证",
+      "Clash Android实验怎样记录系统限制",
+      "Clash安卓教程"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash Mac实验：在macOS记录代理前后状态｜clashmeta教学网",
+    "permalink": "/mac-lab"
+  },
+  "next": {
+    "title": "Clash iOS实验：确认应用支持再验证配置｜clashmeta教学网",
+    "permalink": "/ios-lab"
+  }
+}

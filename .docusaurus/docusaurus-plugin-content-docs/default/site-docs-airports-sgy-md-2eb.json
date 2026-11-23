@@ -1,0 +1,38 @@
+{
+  "id": "airports/sgy",
+  "title": "SOGO 云机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网",
+  "description": "围绕SOGO 云的大碗量贩经济型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。",
+  "source": "@site/docs/airports/sgy.md",
+  "sourceDirName": "airports",
+  "slug": "/airports/sgy",
+  "permalink": "/airports/sgy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sgy",
+    "title": "SOGO 云机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网",
+    "description": "围绕SOGO 云的大碗量贩经济型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。",
+    "slug": "/airports/sgy",
+    "keywords": [
+      "SOGO 云",
+      "SOGO 云怎么样",
+      "SOGO 云测评",
+      "SOGO 云官网",
+      "SOGO 云节点",
+      "SOGO 云优惠码",
+      "SOGO 云套餐",
+      "支持Clash的机场"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "速界",
+    "permalink": "/airports/sj"
+  },
+  "next": {
+    "title": "快狸",
+    "permalink": "/airports/kl"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "airports/ldy",
+  "title": "灵动云机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网",
+  "description": "围绕灵动云的弹性动态倍率节能型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。",
+  "source": "@site/docs/airports/ldy.md",
+  "sourceDirName": "airports",
+  "slug": "/airports/ldy",
+  "permalink": "/airports/ldy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ldy",
+    "title": "灵动云机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网",
+    "description": "围绕灵动云的弹性动态倍率节能型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。",
+    "slug": "/airports/ldy",
+    "keywords": [
+      "灵动云",
+      "灵动云怎么样",
+      "灵动云测评",
+      "灵动云官网",
+      "灵动云节点",
+      "灵动云优惠码",
+      "灵动云套餐",
+      "支持Clash的机场"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "可信云",
+    "permalink": "/airports/kxy"
+  },
+  "next": {
+    "title": "隐形人",
+    "permalink": "/airports/yxr"
+  }
+}

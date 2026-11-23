@@ -1,0 +1,35 @@
+{
+  "id": "upgrade-lab",
+  "title": "Clash更新实验：配置迁移前后怎样回归｜clashmeta教学网",
+  "description": "围绕备份可用基线、核对变更字段、复测和回退，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/upgrade-lab.md",
+  "sourceDirName": ".",
+  "slug": "/upgrade-lab",
+  "permalink": "/upgrade-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "upgrade-lab",
+    "title": "Clash更新实验：配置迁移前后怎样回归｜clashmeta教学网",
+    "description": "围绕备份可用基线、核对变更字段、复测和回退，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/upgrade-lab",
+    "keywords": [
+      "Clash更新实验",
+      "Clash Meta升级怎样做回归",
+      "Clash Meta配置迁移怎样比较",
+      "Clash Meta新版本怎样保留回退基线",
+      "Clash升级"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash Linux实验：核心启动、配置与日志｜clashmeta教学网",
+    "permalink": "/linux-lab"
+  },
+  "next": {
+    "title": "Clash Meta教程：完成一次最小可用实验｜clashmeta教学网",
+    "permalink": "/getting-started"
+  }
+}

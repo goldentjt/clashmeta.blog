@@ -1,0 +1,35 @@
+{
+  "id": "proxy-lab",
+  "title": "Clash系统代理实验：哪些应用使用了设置｜clashmeta教学网",
+  "description": "围绕记录应用基线、对照设置前后、核验实际请求路径，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/proxy-lab.md",
+  "sourceDirName": ".",
+  "slug": "/proxy-lab",
+  "permalink": "/proxy-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "proxy-lab",
+    "title": "Clash系统代理实验：哪些应用使用了设置｜clashmeta教学网",
+    "description": "围绕记录应用基线、对照设置前后、核验实际请求路径，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/proxy-lab",
+    "keywords": [
+      "Clash系统代理实验",
+      "Clash系统代理怎样做前后对照",
+      "Clash应用是否使用系统代理怎样测",
+      "Clash系统代理实验怎样保持条件一致",
+      "Clash系统代理设置"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash面板实验：本机控制接口如何接通｜clashmeta教学网",
+    "permalink": "/controller-lab"
+  },
+  "next": {
+    "title": "Clash无法连接：复现实验失败后怎么定位｜clashmeta教学网",
+    "permalink": "/lab-errors"
+  }
+}

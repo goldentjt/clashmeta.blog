@@ -1,0 +1,35 @@
+{
+  "id": "mac-lab",
+  "title": "Clash Mac实验：在macOS记录代理前后状态｜clashmeta教学网",
+  "description": "围绕安装与权限前提、网络状态对照、关闭与恢复，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/mac-lab.md",
+  "sourceDirName": ".",
+  "slug": "/mac-lab",
+  "permalink": "/mac-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "mac-lab",
+    "title": "Clash Mac实验：在macOS记录代理前后状态｜clashmeta教学网",
+    "description": "围绕安装与权限前提、网络状态对照、关闭与恢复，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/mac-lab",
+    "keywords": [
+      "Clash Mac实验",
+      "Clash Mac代理前后状态怎样对照",
+      "Clash Meta macOS实验怎样回退",
+      "Clash Mac实验怎样记录芯片架构",
+      "Clash Mac教程"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash Windows实验环境如何建立｜clashmeta教学网",
+    "permalink": "/windows-lab"
+  },
+  "next": {
+    "title": "Clash Android实验：VPN接入与后台连接验证｜clashmeta教学网",
+    "permalink": "/android-lab"
+  }
+}

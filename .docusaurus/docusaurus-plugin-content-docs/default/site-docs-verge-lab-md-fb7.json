@@ -1,0 +1,35 @@
+{
+  "id": "verge-lab",
+  "title": "Clash Verge实验：界面设置如何影响核心｜clashmeta教学网",
+  "description": "围绕记录界面与核心版本、观察生成配置、验证覆盖与恢复，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/verge-lab.md",
+  "sourceDirName": ".",
+  "slug": "/verge-lab",
+  "permalink": "/verge-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "verge-lab",
+    "title": "Clash Verge实验：界面设置如何影响核心｜clashmeta教学网",
+    "description": "围绕记录界面与核心版本、观察生成配置、验证覆盖与恢复，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/verge-lab",
+    "keywords": [
+      "Clash Verge实验",
+      "Clash Verge生成配置怎样观察",
+      "Clash Verge覆写设置怎样实验",
+      "Clash Verge客户端和核心版本怎样记录",
+      "Clash Verge教程"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash Meta项目来源与版本文档怎么核对｜clashmeta教学网",
+    "permalink": "/upstream"
+  },
+  "next": {
+    "title": "Clash配置实验：逐段理解最小YAML｜clashmeta教学网",
+    "permalink": "/config-lab"
+  }
+}

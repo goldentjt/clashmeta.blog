@@ -1,0 +1,35 @@
+{
+  "id": "routing-lab",
+  "title": "Clash规则实验：让请求命中预期策略｜clashmeta教学网",
+  "description": "围绕准备可观察请求、增改一条规则、核对命中与回退，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/routing-lab.md",
+  "sourceDirName": ".",
+  "slug": "/routing-lab",
+  "permalink": "/routing-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "routing-lab",
+    "title": "Clash规则实验：让请求命中预期策略｜clashmeta教学网",
+    "description": "围绕准备可观察请求、增改一条规则、核对命中与回退，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/routing-lab",
+    "keywords": [
+      "Clash规则实验",
+      "Clash Meta规则命中怎样验证",
+      "Clash规则修改后怎样对照结果",
+      "Clash Meta分流实验怎样回退",
+      "Clash分流规则"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash节点实验：从单节点到策略组选择｜clashmeta教学网",
+    "permalink": "/node-lab"
+  },
+  "next": {
+    "title": "Clash TUN实验：接入范围和路由怎样验证｜clashmeta教学网",
+    "permalink": "/tun-lab"
+  }
+}

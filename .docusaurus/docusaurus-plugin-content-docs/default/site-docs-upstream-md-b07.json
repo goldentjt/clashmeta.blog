@@ -1,0 +1,35 @@
+{
+  "id": "upstream",
+  "title": "Clash Meta项目来源与版本文档怎么核对｜clashmeta教学网",
+  "description": "围绕查明项目身份、核对文档与版本、记录来源冲突，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/upstream.md",
+  "sourceDirName": ".",
+  "slug": "/upstream",
+  "permalink": "/upstream",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "upstream",
+    "title": "Clash Meta项目来源与版本文档怎么核对｜clashmeta教学网",
+    "description": "围绕查明项目身份、核对文档与版本、记录来源冲突，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/upstream",
+    "keywords": [
+      "Clash Meta项目来源",
+      "Clash Meta文档来源怎样核验",
+      "Clash Meta版本和项目怎样对应",
+      "Clash Meta同名项目怎样排除",
+      "Clash官网"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash Meta核心教学：怎样确定配置适用范围｜clashmeta教学网",
+    "permalink": "/mihomo"
+  },
+  "next": {
+    "title": "Clash Verge实验：界面设置如何影响核心｜clashmeta教学网",
+    "permalink": "/verge-lab"
+  }
+}

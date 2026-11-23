@@ -1,0 +1,35 @@
+{
+  "id": "windows-lab",
+  "title": "Clash Windows实验环境如何建立｜clashmeta教学网",
+  "description": "围绕选择实际客户端、核对版本和架构、采集验证基线，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/windows-lab.md",
+  "sourceDirName": ".",
+  "slug": "/windows-lab",
+  "permalink": "/windows-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "windows-lab",
+    "title": "Clash Windows实验环境如何建立｜clashmeta教学网",
+    "description": "围绕选择实际客户端、核对版本和架构、采集验证基线，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/windows-lab",
+    "keywords": [
+      "Clash Windows实验",
+      "Clash Meta Windows实验环境怎样准备",
+      "Clash Windows怎样记录核心基线",
+      "Clash Windows订阅实验怎样验证",
+      "Clash Windows下载"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash下载与Meta版本：实验要用哪种文件｜clashmeta教学网",
+    "permalink": "/downloads"
+  },
+  "next": {
+    "title": "Clash Mac实验：在macOS记录代理前后状态｜clashmeta教学网",
+    "permalink": "/mac-lab"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ios-lab",
+  "title": "Clash iOS实验：确认应用支持再验证配置｜clashmeta教学网",
+  "description": "围绕识别应用与渠道、核对支持格式、小范围验证和恢复，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/ios-lab.md",
+  "sourceDirName": ".",
+  "slug": "/ios-lab",
+  "permalink": "/ios-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ios-lab",
+    "title": "Clash iOS实验：确认应用支持再验证配置｜clashmeta教学网",
+    "description": "围绕识别应用与渠道、核对支持格式、小范围验证和恢复，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/ios-lab",
+    "keywords": [
+      "Clash iOS实验",
+      "Clash iOS配置实验需要哪些前提",
+      "Clash苹果端怎样验证格式支持",
+      "Clash iOS实验怎样区分文档与实测",
+      "Clash iPhone"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash Android实验：VPN接入与后台连接验证｜clashmeta教学网",
+    "permalink": "/android-lab"
+  },
+  "next": {
+    "title": "Clash Linux实验：核心启动、配置与日志｜clashmeta教学网",
+    "permalink": "/linux-lab"
+  }
+}

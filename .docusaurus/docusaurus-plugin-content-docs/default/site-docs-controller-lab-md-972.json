@@ -1,0 +1,35 @@
+{
+  "id": "controller-lab",
+  "title": "Clash面板实验：本机控制接口如何接通｜clashmeta教学网",
+  "description": "围绕核对控制端与核心、确认认证前提、连接观察与关闭，按具体项目、系统与版本提供说明、实例和验证方法。",
+  "source": "@site/docs/controller-lab.md",
+  "sourceDirName": ".",
+  "slug": "/controller-lab",
+  "permalink": "/controller-lab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "controller-lab",
+    "title": "Clash面板实验：本机控制接口如何接通｜clashmeta教学网",
+    "description": "围绕核对控制端与核心、确认认证前提、连接观察与关闭，按具体项目、系统与版本提供说明、实例和验证方法。",
+    "slug": "/controller-lab",
+    "keywords": [
+      "Clash面板实验",
+      "Clash控制接口怎样做本机实验",
+      "Clash面板认证成功怎样验证",
+      "Clash面板实验结束怎样关闭",
+      "Clash网页面板"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clash DNS实验：解析路径和覆盖设置怎么测｜clashmeta教学网",
+    "permalink": "/dns-lab"
+  },
+  "next": {
+    "title": "Clash系统代理实验：哪些应用使用了设置｜clashmeta教学网",
+    "permalink": "/proxy-lab"
+  }
+}
