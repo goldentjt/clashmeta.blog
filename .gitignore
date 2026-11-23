@@ -1,0 +1,24 @@
+# Installed dependencies: restore with npm ci
+node_modules/
+
+# Generated framework working files
+.astro/
+.docusaurus/
+.cache/
+
+# Operating system files and logs
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local environment files (keep example templates)
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Intentionally keep build/ and dist/ for the existing deployment method.
+# Only ignore them after confirming the hosting service rebuilds from source.
