@@ -1,5 +1,6 @@
 ---
 id: byjd
+sidebar_label: 边缘节点
 title: 边缘节点（EdgeNova）机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网
 description: 围绕边缘节点（EdgeNova）的Anycast动态边缘就近接入型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。
 slug: /airports/byjd

@@ -15,16 +15,14 @@ keywords: [Clash订阅实验, Clash代理集合怎样做加载实验, Clash完�
   <a href="/node-lab/">下一步 → Meta节点 (/node-lab/)</a>
 </div>
 
-
 :::tip 节点配套与服务选择说明
-进行本项配置或网络实验，必须准备一个已授权且支持 Clash Meta（Mihomo）特性的可用节点订阅。
-经过晚高峰实测，以下 4 家主流优质服务商具备高度协议兼容性与低延迟表现：
-- **<a href="https://quanqiu.jlyvipaff.com/#/?code=NplcUEEV" target="_blank" rel="sponsored nofollow noopener">极连云</a>**：主打 IPLC 内网专线，抗封锁防 QoS，香港/日本超低延迟（优惠码 <code>jly88</code>，折后低至 8 元/月）。
-- **<a href="https://quanqiu.vipaff.cc/#/?code=c4sOJBXE" target="_blank" rel="sponsored nofollow noopener">唯兔云</a>**：全线 VLESS 协议支持，60+ 节点智能负载均衡容灾（优惠码 <code>wty88</code>，月付 14.9 元起）。
+进行本项配置或网络实验，必须准备一个已授权且支持 Clash Meta（Mihomo）特性的可用节点订阅。经过晚高峰实测，以下 4 家主流优质服务商具备高度协议兼容性与低延迟表现：
 - **<a href="https://hueue09.gcvipaff.com/#/?code=z8U9aaa4" target="_blank" rel="sponsored nofollow noopener">全球云</a>**：多国原生 IP 智能分流，完美契合跨境电商与 TikTok 运营（专属 8 折优惠码 <code>qq88</code>）。
-- **<a href="https://tiziyun3.ladderaff.com/#/?code=wI00rGj2" target="_blank" rel="sponsored nofollow noopener">梯子云</a>**：全线企业级 IEPL 专线，晚高峰 4K/8K 流媒体满血加载，原生秒解 ChatGPT/Claude（8 折优惠码 <code>tiziyun</code>）。
+- **<a href="http://adcua9104.dalaoyunaff.com/#/?code=J6GqQqk8" target="_blank" rel="sponsored nofollow noopener">大佬云</a>**：大带宽大吞吐主力出口，重度下载与高并发数据同步保障（专属优惠码 <code>dly88</code>）。
+- **<a href="https://yinxingren1.invisibleaff.com/#/?code=ISH1y2IF" target="_blank" rel="sponsored nofollow noopener">隐形人</a>**：主打抗封锁与纯净原生出口，敏感时期连接稳定，隐私防护完备（专属优惠码 <code>yxr88</code>）。
+- **<a href="https://edp01.breezenetaff.com/#/?code=vxDUI8kY" target="_blank" rel="sponsored nofollow noopener">微风网络</a>**：全节点 BGP 优化中转，低延迟香港/日本线路，兼顾通用订阅与快速导入（专属优惠码 <code>wfwl88</code>）。
 
-完整 28 家机场价格与网络特性核对，可查阅 [Clash机场推荐：按实验验证范围读兼容性](/airport-recommend/)。所有外部跳转均携带 `rel="sponsored nofollow noopener"` 避免权重流失。
+完整 28 家机场价格与网络特性核对，可查阅 [Clash机场推荐：按实验验证范围读兼容性](/airport-recommend/)。所有外部跳转均携带  避免权重流失。
 :::
 
 

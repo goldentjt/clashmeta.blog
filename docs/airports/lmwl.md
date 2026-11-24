@@ -1,5 +1,6 @@
 ---
 id: lmwl
+sidebar_label: 灵猫网络
 title: 灵猫网络（Civet）机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网
 description: 围绕灵猫网络（Civet）的量贩式TB级大流量型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。
 slug: /airports/lmwl

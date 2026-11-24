@@ -1,5 +1,6 @@
 ---
 id: sy
+sidebar_label: 闪跃
 title: 闪跃（FlashLeap）机场怎么样：2026真实深度测评、价格套餐与购买建议｜clashmeta教学网
 description: 围绕闪跃（FlashLeap）的高频瞬时并发爬虫型定位，深度核验其适合人群、真实套餐使用成本、节点地区分布、晚高峰速率延迟、流媒体与AI工具解锁实测，给出严谨客观的选购指南。
 slug: /airports/sy

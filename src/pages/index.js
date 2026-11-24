@@ -18,7 +18,7 @@ export default function Home() {
     { id: '站点说明', label: '站点说明 (2)' },
   ];
 
-  const coreAirportOrder = ['qqy', 'mgjs', 'fmy', 'lw', 'dly'];
+  const coreAirportOrder = ['qqy', 'mgjs', 'fmy', 'wfwl', 'dly'];
   const topAirports = coreAirportOrder
     .map((id) => airports.find((a) => a.id === id))
     .filter(Boolean);
@@ -165,7 +165,7 @@ export default function Home() {
             </Link>
           </div>
           <p style={{ fontSize: '15px', color: '#555', marginBottom: '1.5rem' }}>
-            技术实验离不开高可用底层节点的支撑。我们在晚高峰（20:00 - 23:00）针对节点连通率、流媒体 4K/8K 解锁与 OpenAI/Claude AI 生产力接口进行了严格实测，精选出五家核心主推服务商（全球云 · 暮光加速 · 飞猫云 · 浪网 · 大佬云）：
+            技术实验离不开高可用底层节点的支撑。我们在晚高峰（20:00 - 23:00）针对节点连通率、流媒体 4K/8K 解锁与 OpenAI/Claude AI 生产力接口进行了严格实测，精选出五家核心主推服务商（全球云 · 暮光加速 · 飞猫云 · 微风网络 · 大佬云）：
           </p>
 
           <div className="airports-highlight-grid">
